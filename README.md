@@ -5,7 +5,7 @@ Freelance developer based in Sydney. I build web apps, mobile apps, and Minecraf
 If you've got an idea, a bug, or a half-finished project, I'd like to hear about it.
 
 ## Best work
-👉 **[See my projects]([link](https://maxwitanowski.github.io/Max-s-Gallery/index.html))**
+👉 **[See my projects]([https://maxwitanowski.github.io/Max-s-Gallery/index.html])**
 
 ## Languages & tools
 Java · TypeScript · JavaScript · HTML/CSS · [add or remove: Python, Kotlin, React, Node, Fabric, Forge]
